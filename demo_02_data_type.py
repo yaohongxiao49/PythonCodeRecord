@@ -24,7 +24,7 @@ print(10_000)
 #    print("and == ", i)
 #elif i == 12 or i == 13:
 #    print("or == ", i)
-#else:
+# else:
 #    print("完结")
 
 

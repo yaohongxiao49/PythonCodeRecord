@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ###################### 可变字典 ######################
 mutableDic = {"a":1, "b":2}
 # print("a == %s, %s" % (mutableDic["a"], mutableDic.get("a")))

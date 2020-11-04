@@ -5,7 +5,7 @@ mutableDic = {"a":1, "b":2}
 
 # 判断可变字典中是否存在key为"a"
 if "a" in mutableDic:
-    # print("key a 存在")
+    print("key a 存在")
 
 # 移除可变数字典指定key
 mutableDic.pop("a")

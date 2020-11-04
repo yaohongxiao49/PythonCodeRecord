@@ -19,12 +19,12 @@ print(10_000)
 
 # -*- coding: utf-8 -*-
 ###################### 布尔值 ######################
-#i = 7
-#if i > 7 and i < 9:
-#    print("and == ", i)
-#elif i == 12 or i == 13:
-#    print("or == ", i)
-# else:
-#    print("完结")
+i = 7
+if i > 7 and i < 9:
+   print("and == ", i)
+elif i == 12 or i == 13:
+   print("or == ", i)
+else:
+   print("完结")
 
 

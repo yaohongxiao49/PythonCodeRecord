@@ -63,7 +63,7 @@ def person(name, age, **kw):
 # person("1", 2)
 # person("1", 2, city = "sf")
 
-# 限制关键字参数名称 * 后的视为命名关键字参数（已被废弃？）
+# 限制关键字参数名称 * 后的视为命名关键字参数
 def personLimit(name, age, *, city, job):
     print(name, age, city, job)
 personLimit("1", 2, city="成都", job="无")

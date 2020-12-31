@@ -21,7 +21,7 @@ arr = ("A", "B", "C")
 # print(arr)
 
 ###################### 循环 ######################
-for value in mutableArr:
+# for value in mutableArr:
 #     print(value)
 
 sum = 0
